@@ -1,0 +1,3 @@
+
+INFO:root:the current iteration of range_gen is <function range_gen at 0x000001CBBF254D38>
+INFO:root:the current iteration of x is <generator object range_gen at 0x000001CBBF13AA48>
